@@ -1,7 +1,7 @@
 {
   "name": "project",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/js/index.js",
   "scripts": {
     "build": "webpack --mode production",
     "test": "echo \"Error: no test specified\" && exit 1"
